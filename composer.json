@@ -1,0 +1,14 @@
+{
+    "name": "spipremix/pages",
+    "homepage": "https://contrib.spip.net/Pages-uniques",
+    "description": "Gestion des pages sans rubrique",
+    "type": "spip-plugin",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "RastaPopoulos",
+            "email": "rastapopoulos@spip.org"
+        }
+    ],
+    "require": {}
+}
